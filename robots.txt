@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-j5zkp4.socredito.com.br/sitemap.xml
